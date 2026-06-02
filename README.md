@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/images/ancora-banner.png" alt="Ancora Banner" width="100%" />
+<img src="docs/images/ancora-banner.png?v=2" alt="Ancora Banner" width="100%" />
 
 # Ancora — AI-Powered Customer Retention for Indonesian MSMEs
 
