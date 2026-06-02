@@ -330,9 +330,9 @@ Memperbarui Heartbeat Score seluruh pelanggan secara batch. Endpoint ini hanya b
 
 | Nama | Peran | Tanggung Jawab |
 |---|---|---|
-| [Fathi Farhan](https://github.com/Fathi-Farhan) | Hacker | ML Pipeline, FastAPI Backend, System Architecture |
-| Nanda Manarfa | Hipster | UI/UX Design, Flutter Frontend, User Research |
-| *(Hustler)* | Hustler | Business Strategy, BMC, Go-To-Market |
+| [Muhammad Fathi Farhan](https://github.com/Fathi-Farhan) | Hustler | Team Leader, Business Strategy, BMC, Go-To-Market |
+| Bekti Nazwa Putra Nasution | Hipster | UI/UX Design, Flutter Frontend, User Journey & Persona |
+| Benny Hendrawan | Hacker | ML Pipeline, FastAPI Backend, System Architecture |
 
 ---
 
@@ -353,6 +353,6 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 <div align="center">
 
-Dibuat dengan ❤️ oleh Tim MakeNoMistake · Universitas Gunadarma · 2025
+Dibuat oleh Tim MakeNoMistake · Universitas Gunadarma · 2026
 
 </div>
